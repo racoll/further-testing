@@ -1,1 +1,1 @@
-puts "Hello, world...again"
+puts "Hello, #{ARGV.first}!"
